@@ -1,2 +1,0 @@
-# saibalaji
-Python slicing strings
